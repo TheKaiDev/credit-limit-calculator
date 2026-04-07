@@ -11,11 +11,11 @@ clang++ main.cpp -o main && ./main
 ```
 
 ## Sample Run
-<img width="468" height="262" alt="image" src="sample-run1.png" />
-<img width="468" height="104" alt="image" src="sample-run2.png" />
-<img width="468" height="103" alt="image" src="sample-run3.png" />
-<img width="468" height="205" alt="image" src="sample-run4.png" />
-<img width="468" height="160" alt="image" src="sample-run5.png" />
+<img width="468" height="262" alt="image" src="assets/sample-run1.png" />
+<img width="468" height="104" alt="image" src="assets/sample-run2.png" />
+<img width="468" height="103" alt="image" src="assets/sample-run3.png" />
+<img width="468" height="205" alt="image" src="assets/sample-run4.png" />
+<img width="468" height="160" alt="image" src="assets/sample-run5.png" />
 
 ## Features
 - Input validation
